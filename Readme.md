@@ -6,6 +6,8 @@ github link to project: https://github.com/BarryHoward/Internal-User
 
 githut link to deployed website:  tiy-barryhoward-hw10_internal-user_10.19.surge.sh
 
+Put the for loop around the ajax call because I thought I had to pull one result at a time.  Apparently, I can request all 12 at once, but I left it this way because I like watching the screen populate.  Let me know if I need to change it.
+
 
 Files:
 
